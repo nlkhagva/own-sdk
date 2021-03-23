@@ -1,5 +1,5 @@
 {
-  "name": "@saleor/sdk",
+  "name": "nlkhagva-sdk",
   "version": "0.3.0-4",
   "description": "This package contains all queries and mutations that are used in our sample storefront. It can be used for semi-custom or fully-custom (with ability to extend existing queries) storefront solutions.",
   "homepage": "https://getsaleor.com/",
@@ -114,5 +114,11 @@
     "react-dom": "^16.9.0"
   },
   "type": "commonjs",
-  "typings": "./lib/index.d.ts"
+  "typings": "./lib/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/mirumee/saleor-sdk/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  }
 }
